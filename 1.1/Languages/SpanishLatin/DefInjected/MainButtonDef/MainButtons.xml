@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MintMenus.label>menús mint</MintMenus.label>
+  <MintMenus.description>Busca todos los edificios de todos los mods.</MintMenus.description>
+
+  <MintResearch.label>investigación mint</MintResearch.label>
+  <MintResearch.description>Busca proyectos de investigación.</MintResearch.description>
+
+  <MintDesignators.label>designadores mint</MintDesignators.label>
+  <MintDesignators.description>Selección rápida de designadores.</MintDesignators.description>
+</LanguageData>
