@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Mint.GearMenu>Menú de Equipo Mint (Experimental)</Mint.GearMenu>
+	<Mint.GearMenuVisible>Botón principal visible</Mint.GearMenuVisible>
+	<Mint.GearMenuDesc>Activa un botón para abrir un menú de gestión de equipo que permite arrastrar y soltar objetos sobre cualquier colono.</Mint.GearMenuDesc>
+	<Mint.Setup>Configuración</Mint.Setup>
+	<Mint.AssignMenu>Menú de Asignación Mint</Mint.AssignMenu>
+	<Mint.AssignMenuDesc>Reemplaza el menú de asignación predeterminado con la versión Mint.</Mint.AssignMenuDesc>
+	<MessageCantEquipWhileDowned>No se puede equipar mientras está abatido.</MessageCantEquipWhileDowned>
+	<Mint.ShowMintBillsButton>Mostrar botón de tareas Mint</Mint.ShowMintBillsButton>
+	<Mint.ShowMintBillsButtonTip>Muestra el botón de tareas Mint en la lista de pestañas principales en la parte inferior de la pantalla.</Mint.ShowMintBillsButtonTip>
+	<ReplacePlantMenuTip>Abre el menú de siembra Mint en lugar del desplegable original. Si se desactiva, puedes presionar Ctrl+Clic para abrir el menú Mint.</ReplacePlantMenuTip>
+	<Mint.ShowBillWorkIcons>Mostrar iconos de trabajo requerido</Mint.ShowBillWorkIcons>
+	<Mint.ShowBillIngredientIcons>Mostrar iconos de ingredientes</Mint.ShowBillIngredientIcons>
+	<Mint.ConfirmDeleteTemplate>Confirmar eliminación de clon</Mint.ConfirmDeleteTemplate>
+	<Mint.RenameTemplateTip>Renombrar</Mint.RenameTemplateTip>
+	<Mint.Clones>Clones</Mint.Clones>
+	<Mint.Bills>Tareas</Mint.Bills>
+	<Mint.PasteTemplateTip>Pegar lista de tareas en la mesa</Mint.PasteTemplateTip>
+	<Mint.CloneBills>Clonar Tareas</Mint.CloneBills>
+	<Mint.DeleteTemplate>Eliminar Plantilla</Mint.DeleteTemplate>
+	<Mint.CloneWorktable>Clonar la lista de tareas de esta mesa de trabajo</Mint.CloneWorktable>
+	<Mint.SelectABenchToAddBills>Selecciona una mesa para añadir una tarea</Mint.SelectABenchToAddBills>
+	<AutoCloseArchitect>Cerrar al seleccionar</AutoCloseArchitect>
+	<AutoCloseArchitectDesc>Cierra el menú de arquitecto cuando se selecciona un diseño.</AutoCloseArchitectDesc>
+	<ResearchQueueTip>Cola de investigación - Arrastra para ordenar</ResearchQueueTip>
+	<QueueResearchProj>Encolar</QueueResearchProj>
+	<EnablePinningResources>Habilitar fijado de recursos</EnablePinningResources>
+	<EnablePinningResourcesTip>Ctrl+Clic en los objetos del panel de recursos para fijarlos arriba (solo en modo categoría).</EnablePinningResourcesTip>
+	<ShowHideResourceList>Ocultar panel de recursos</ShowHideResourceList>
+	<ShowHideResourceListTip>Oculta el panel de lectura de recursos a la izquierda de la pantalla.</ShowHideResourceListTip>
+	<dragdropdes>Arrastrar\ny\nSoltar</dragdropdes>
+	<ReplacePlantMenu>Menú de Plantas Mint</ReplacePlantMenu>
+	<ResearchCompletionMode>Modo de finalización de investigación</ResearchCompletionMode>
+	<MintHelpLinks>Enlaces de soporte</MintHelpLinks>
+	<MintDiscord>Discord de Dubs Mods</MintDiscord>
+	<ProjectStalled>No se cumplen los requisitos del proyecto de investigación</ProjectStalled>
+	<ProjectStopped>Proyecto detenido</ProjectStopped>
+	<MintWiki>Wiki de Mint Menus</MintWiki>
+	<SetButtonsFromBuildo>Añade botones usando el menú de construcción Mint (Ctrl+Clic en menú arquitecto)</SetButtonsFromBuildo>
+	<BillSearchTip>Las palabras de búsqueda incluyen:\n\nCualquier palabra en etiquetas de tareas o productos (ej: pantalones)\n\nCategorías de materiales (ej: cuero)\n\nGrupos de partes del cuerpo (ej: cabeza)\n\nEtiquetas (ej: industrial)\n\nCapas (ej: sobre la cabeza)</BillSearchTip>
+	<NoActiveProject>Sin proyecto activo</NoActiveProject>
+	<TargetProject>Proyecto objetivo: {0}</TargetProject>
+	<MintWheelEditMode>Haz clic en los diseños del menú de arquitecto para añadirlos a la rueda\nArrastra y suelta para organizar la rueda</MintWheelEditMode>
+	<MintWheelDesc>Rueda Mint {0}/{1} Ctrl+Clic para asignar</MintWheelDesc>
+	<MintWheelMenu>Menú Rueda Mint</MintWheelMenu>
+	<MintWheelonrightclick>Rueda Mint con clic derecho</MintWheelonrightclick>
+	<MintWheelRightClickDesc>Abre la rueda Mint con el clic derecho en lugar de abrir el menú de arquitecto.</MintWheelRightClickDesc>
+	<MintWheel>Rueda Mint</MintWheel>
+	<MintBuildMenu>Menú de construcción</MintBuildMenu>
+	<AutoFocusSearch>Auto-enfoque en buscador</AutoFocusSearch>
+	<AutoFocusSearchDesc>Enfoca automáticamente el cuadro de búsqueda para empezar a escribir cada vez que se abre el menú de construcción.</AutoFocusSearchDesc>
+	<OverrideArchitectTab>Anular pestaña de arquitecto</OverrideArchitectTab>
+	<OverrideArchitectTabDesc>Hace que el menú de construcción Mint sea la pestaña de arquitecto predeterminada (mantén Ctrl para el original).</OverrideArchitectTabDesc>
+	<ResearchMenu>Investigación</ResearchMenu>
+	<MintListWidth>Ancho de lista</MintListWidth>
+	<OverrideResearchTab>Anular pestaña de investigación</OverrideResearchTab>
+	<OverrideResearchTabDesc>Hace que el menú de investigación Mint sea la pestaña de investigación predeterminada (mantén Ctrl para el original).</OverrideResearchTabDesc>
+	<UnlockedThings>Desbloquea objetos</UnlockedThings>
+	<HideFinishedProjects>Ocultar investigaciones terminadas</HideFinishedProjects>
+	<HideLockedProjects>Ocultar investigaciones bloqueadas</HideLockedProjects>
+	<PinnedRes>Fijado</PinnedRes>
+	<MintResourceReadout>Panel de Recursos Mint</MintResourceReadout>
+	<MintExperimental>Extras</MintExperimental>
+	<Autoprojectstep>Paso de proyecto automático</Autoprojectstep>
+	<AutoprojectstepDesc>Inicia automáticamente el siguiente paso de investigación para completar el proyecto objetivo.</AutoprojectstepDesc>
+	<MintBills>Tareas</MintBills>
+	<ListWidth>Ancho de lista</ListWidth>
+	<RowHeight>Altura de fila</RowHeight>
+	<InfocardWidth>Ancho de info</InfocardWidth>
+	<TopOffset>Desplazamiento superior</TopOffset>
+	<MaxHeight>Altura máxima</MaxHeight>
+	<MintPlants>Plantas</MintPlants>
+	<BoxSizeX>Ancho de cuadro</BoxSizeX>
+	<BoxSizeY>Altura de cuadro</BoxSizeY>
+	<MintResetAll>Restablecer todo</MintResetAll>
+</LanguageData>
